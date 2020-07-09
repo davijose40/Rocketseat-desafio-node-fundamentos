@@ -1,5 +1,6 @@
 
 <img src="https://i.imgur.com/vpMolfl.png" alt="Gostack print">
+
 <!-- name the thing -->
 # Desafio 02: Conceitos do Node.js Fundamentos
 
